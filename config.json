@@ -1,5 +1,12 @@
 [
 	{
+		"filetype": "jpg",
+		"id": "This_Is_Fine",
+		"name": "This Is fine",
+		"src": "/this_is_fine.jpg",
+		"thumb_src": "/this_is_fine_thumb.jpg"
+	},
+	{
 		"filetype": "gif",
 		"id": "MJ",
 		"name": "Michael Jack",

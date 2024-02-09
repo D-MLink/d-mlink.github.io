@@ -1,5 +1,12 @@
 [
 	{
+		"filetype": "mp4",
+		"id": "MJ",
+		"name": "Michael Jack",
+		"src": "/mj_popcorn.mp4",
+		"thumb_src": "/mj_popcorn_thumb.png"
+	},
+	{
 		"filetype": "png",
 		"id": "Custom_bg01",
 		"name": "Custom bg 01",

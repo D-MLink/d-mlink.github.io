@@ -5,5 +5,12 @@
 		"name": "Custom bg 01",
 		"src": "/Custom_bg01.png",
 		"thumb_src": "/Custom_bg01_thumb.png"
+	},
+	{
+		"filetype": "png",
+		"id": "Technical_dif",
+		"name": "Technical Dificulties",
+		"src": "/technical_dif_1080p.png",
+		"thumb_src": "/technical_dif_thumb.png"
 	}
 ]

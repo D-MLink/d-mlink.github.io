@@ -26,5 +26,19 @@
 		"name": "Technical Dificulties",
 		"src": "/technical_dif_1080p.png",
 		"thumb_src": "/technical_dif_thumb.png"
+	},
+	{
+		"filetype": "jpg",
+		"id": "SerraEstrela",
+		"name": "Serra da Estrela",
+		"src": "/Serra-da-Estrela-tour.jpg",
+		"thumb_src": "/Serra-da-Estrela-tour_thumb.jpg"
+	},
+	{
+		"filetype": "mp4",
+		"id": "MJmp4",
+		"name": "Michael Jack mp4",
+		"src": "/mj_popcorn.mp4",
+		"thumb_src": "/mj_popcorn_thumb.png"
 	}
 ]

@@ -40,5 +40,12 @@
 		"name": "Michael Jack mp4",
 		"src": "/mj_popcorn.mp4",
 		"thumb_src": "/mj_popcorn_thumb.png"
+	},
+	{
+		"filetype": "jpg",
+		"id": "MJjpgfake",
+		"name": "Michael Jack fake",
+		"src": "/mj_popcorn.jpg",
+		"thumb_src": "/mj_popcorn_thumb.png"
 	}
 ]

@@ -42,10 +42,17 @@
 		"thumb_src": "/mj_popcorn_thumb.png"
 	},
 	{
-		"filetype": "jpg",
-		"id": "MJjpgfake",
+		"filetype": "webp",
+		"id": "Fuji",
 		"name": "Michael Jack fake",
-		"src": "/mj_popcorn.jpg",
-		"thumb_src": "/mj_popcorn_thumb.png"
+		"src": "/fuji.webp",
+		"thumb_src": "/fuji.webp"
+	},
+	{
+		"filetype": "webp",
+		"id": "Shibuya",
+		"name": "Michael Jack fake",
+		"src": "/shibuya.webp",
+		"thumb_src": "/shibuya.webp"
 	}
 ]

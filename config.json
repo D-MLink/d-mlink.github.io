@@ -1,58 +1,58 @@
 [
 	{
+		"filetype": "jpg",
+		"id": "santos",
+		"name": "Santos",
+		"src": "/pics/santos.jpg",
+		"thumb_src": "/pics/santos_thumb.jpg"
+	},
+	{
 		"filetype": "png",
 		"id": "This_Is_Fine",
 		"name": "This Is fine",
-		"src": "/this_is_fine.png",
-		"thumb_src": "/this_is_fine_thumb.png"
+		"src": "/pics/this_is_fine.png",
+		"thumb_src": "/pics/this_is_fine_thumb.png"
 	},
 	{
-		"filetype": "gif",
+		"filetype": "png",
 		"id": "MJ",
 		"name": "Michael Jack",
-		"src": "/mj_popcorn.gif",
-		"thumb_src": "/mj_popcorn_thumb.png"
+		"src": "/pics/mj_popcorn.png",
+		"thumb_src": "/pics/mj_popcorn_thumb.png"
 	},
 	{
 		"filetype": "png",
 		"id": "Custom_bg01",
 		"name": "Custom bg 01",
-		"src": "/Custom_bg01.png",
-		"thumb_src": "/Custom_bg01_thumb.png"
+		"src": "/pics/Custom_bg01.png",
+		"thumb_src": "/pics/Custom_bg01_thumb.png"
 	},
 	{
 		"filetype": "png",
 		"id": "Technical_dif",
 		"name": "Technical Dificulties",
-		"src": "/technical_dif_1080p.png",
-		"thumb_src": "/technical_dif_thumb.png"
+		"src": "/pics/technical_dif_1080p.png",
+		"thumb_src": "/pics/technical_dif_thumb.png"
 	},
 	{
 		"filetype": "jpg",
 		"id": "SerraEstrela",
 		"name": "Serra da Estrela",
-		"src": "/Serra-da-Estrela-tour.jpg",
-		"thumb_src": "/Serra-da-Estrela-tour_thumb.jpg"
-	},
-	{
-		"filetype": "mp4",
-		"id": "MJmp4",
-		"name": "Michael Jack mp4",
-		"src": "/mj_popcorn.mp4",
-		"thumb_src": "/mj_popcorn_thumb.png"
+		"src": "/pics/Serra-da-Estrela-tour.jpg",
+		"thumb_src": "/pics/Serra-da-Estrela-tour_thumb.jpg"
 	},
 	{
 		"filetype": "jpg",
 		"id": "Fuji",
 		"name": "Fuji",
-		"src": "/fuji.jpg",
-		"thumb_src": "/fuji_thumb.jpg"
+		"src": "/pics/fuji.jpg",
+		"thumb_src": "/pics/fuji_thumb.jpg"
 	},
 	{
 		"filetype": "jpg",
 		"id": "Shibuya",
 		"name": "Shibuya",
-		"src": "/shibuya.jpg",
-		"thumb_src": "/shibuya_thumb.jpg"
+		"src": "/pics/shibuya.jpg",
+		"thumb_src": "/pics/shibuya_thumb.jpg"
 	}
 ]

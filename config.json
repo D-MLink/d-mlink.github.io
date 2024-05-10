@@ -1,65 +1,67 @@
-[
-	{
-		"filetype": "jpg",
-		"id": "santos",
-		"name": "Santos",
-		"src": "/pics/santos.jpg",
-		"thumb_src": "/pics/santos_thumb.jpg"
-	},
-	{
-		"filetype": "png",
-		"id": "This_Is_Fine",
-		"name": "This Is fine",
-		"src": "/pics/this_is_fine.png",
-		"thumb_src": "/pics/this_is_fine_thumb.png"
-	},
-	{
-		"filetype": "png",
-		"id": "MJ",
-		"name": "Michael Jack",
-		"src": "/pics/mj_popcorn.png",
-		"thumb_src": "/pics/mj_popcorn_thumb.png"
-	},
-	{
-		"filetype": "png",
-		"id": "Custom_bg01",
-		"name": "Custom bg 01",
-		"src": "/pics/Custom_bg01.png",
-		"thumb_src": "/pics/Custom_bg01_thumb.png"
-	},
-	{
-		"filetype": "png",
-		"id": "Technical_dif",
-		"name": "Technical Dificulties",
-		"src": "/pics/technical_dif_1080p.png",
-		"thumb_src": "/pics/technical_dif_thumb.png"
-	},
-	{
-		"filetype": "jpg",
-		"id": "SerraEstrela",
-		"name": "Serra da Estrela",
-		"src": "/pics/Serra-da-Estrela-tour.jpg",
-		"thumb_src": "/pics/Serra-da-Estrela-tour_thumb.jpg"
-	},
-	{
-		"filetype": "jpg",
-		"id": "Fuji",
-		"name": "Fuji",
-		"src": "/pics/fuji.jpg",
-		"thumb_src": "/pics/fuji_thumb.jpg"
-	},
-	{
-		"filetype": "jpg",
-		"id": "Shibuya",
-		"name": "Shibuya",
-		"src": "/pics/shibuya.jpg",
-		"thumb_src": "/pics/shibuya_thumb.jpg"
-	},
-	{
-		"filetype": "png",
-		"id": "empl_month",
-		"name": "Employee",
-		"src": "/pics/empl_month.png",
-		"thumb_src": "/pics/shibuya_thumb.jpg"
-	}
-]
+{
+	"videoBackgroundImages": [
+		{
+			"filetype": "jpg",
+			"id": "santos",
+			"name": "Santos",
+			"src": "/pics/santos.jpg",
+			"thumb_src": "/pics/santos_thumb.jpg"
+		},
+		{
+			"filetype": "png",
+			"id": "This_Is_Fine",
+			"name": "This Is fine",
+			"src": "/pics/this_is_fine.png",
+			"thumb_src": "/pics/this_is_fine_thumb.png"
+		},
+		{
+			"filetype": "png",
+			"id": "MJ",
+			"name": "Michael Jack",
+			"src": "/pics/mj_popcorn.png",
+			"thumb_src": "/pics/mj_popcorn_thumb.png"
+		},
+		{
+			"filetype": "png",
+			"id": "Custom_bg01",
+			"name": "Custom bg 01",
+			"src": "/pics/Custom_bg01.png",
+			"thumb_src": "/pics/Custom_bg01_thumb.png"
+		},
+		{
+			"filetype": "png",
+			"id": "Technical_dif",
+			"name": "Technical Dificulties",
+			"src": "/pics/technical_dif_1080p.png",
+			"thumb_src": "/pics/technical_dif_thumb.png"
+		},
+		{
+			"filetype": "jpg",
+			"id": "SerraEstrela",
+			"name": "Serra da Estrela",
+			"src": "/pics/Serra-da-Estrela-tour.jpg",
+			"thumb_src": "/pics/Serra-da-Estrela-tour_thumb.jpg"
+		},
+		{
+			"filetype": "jpg",
+			"id": "Fuji",
+			"name": "Fuji",
+			"src": "/pics/fuji.jpg",
+			"thumb_src": "/pics/fuji_thumb.jpg"
+		},
+		{
+			"filetype": "jpg",
+			"id": "Shibuya",
+			"name": "Shibuya",
+			"src": "/pics/shibuya.jpg",
+			"thumb_src": "/pics/shibuya_thumb.jpg"
+		},
+		{
+			"filetype": "png",
+			"id": "empl_month",
+			"name": "Employee",
+			"src": "/pics/empl_month.png",
+			"thumb_src": "/pics/shibuya_thumb.jpg"
+		}
+	]
+}

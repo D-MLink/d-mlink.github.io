@@ -4,64 +4,64 @@
 			"filetype": "jpg",
 			"id": "santos",
 			"name": "Santos",
-			"src": "/evergreen-assets/backgroundimages/santos.jpg",
-			"thumb_src": "/evergreen-assets/backgroundimages/santos_thumb.jpg"
+			"src": "/evergreen-assets/backgroundimages/files/santos.jpg",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
 		},
 		{
 			"filetype": "png",
 			"id": "This_Is_Fine",
 			"name": "This Is fine",
-			"src": "/evergreen-assets/backgroundimages/this_is_fine.png",
-			"thumb_src": "/evergreen-assets/backgroundimages/this_is_fine_thumb.png"
+			"src": "/evergreen-assets/backgroundimages/files/this_is_fine.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/this_is_fine_thumb.png"
 		},
 		{
 			"filetype": "png",
 			"id": "MJ",
 			"name": "Michael Jack",
-			"src": "/evergreen-assets/backgroundimages/mj_popcorn.png",
-			"thumb_src": "/evergreen-assets/backgroundimages/mj_popcorn_thumb.png"
+			"src": "/evergreen-assets/backgroundimages/files/mj_popcorn.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/mj_popcorn_thumb.png"
 		},
 		{
 			"filetype": "png",
 			"id": "Custom_bg01",
 			"name": "Custom bg 01",
-			"src": "/evergreen-assets/backgroundimages/Custom_bg01.png",
-			"thumb_src": "/evergreen-assets/backgroundimages/Custom_bg01_thumb.png"
+			"src": "/evergreen-assets/backgroundimages/files/Custom_bg01.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/Custom_bg01_thumb.png"
 		},
 		{
 			"filetype": "png",
 			"id": "Technical_dif",
 			"name": "Technical Dificulties",
-			"src": "/evergreen-assets/backgroundimages/technical_dif_1080p.png",
-			"thumb_src": "/evergreen-assets/backgroundimages/technical_dif_thumb.png"
+			"src": "/evergreen-assets/backgroundimages/files/technical_dif_1080p.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/technical_dif_thumb.png"
 		},
 		{
 			"filetype": "jpg",
 			"id": "SerraEstrela",
 			"name": "Serra da Estrela",
-			"src": "/evergreen-assets/backgroundimages/Serra-da-Estrela-tour.jpg",
-			"thumb_src": "/evergreen-assets/backgroundimages/Serra-da-Estrela-tour_thumb.jpg"
+			"src": "/evergreen-assets/backgroundimages/files/Serra-da-Estrela-tour.jpg",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/Serra-da-Estrela-tour_thumb.jpg"
 		},
 		{
 			"filetype": "jpg",
 			"id": "Fuji",
 			"name": "Fuji",
-			"src": "/evergreen-assets/backgroundimages/fuji.jpg",
-			"thumb_src": "/evergreen-assets/backgroundimages/fuji_thumb.jpg"
+			"src": "/evergreen-assets/backgroundimages/files/fuji.jpg",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/fuji_thumb.jpg"
 		},
 		{
 			"filetype": "jpg",
 			"id": "Shibuya",
 			"name": "Shibuya",
-			"src": "/evergreen-assets/backgroundimages/shibuya.jpg",
-			"thumb_src": "/evergreen-assets/backgroundimages/shibuya_thumb.jpg"
+			"src": "/evergreen-assets/backgroundimages/files/shibuya.jpg",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/shibuya_thumb.jpg"
 		},
 		{
 			"filetype": "png",
 			"id": "empl_month",
 			"name": "Employee",
-			"src": "/evergreen-assets/backgroundimages/empl_month.png",
-			"thumb_src": "/evergreen-assets/backgroundimages/shibuya_thumb.jpg"
+			"src": "/evergreen-assets/backgroundimages/files/empl_month.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/shibuya_thumb.jpg"
 		}
 	]
 }

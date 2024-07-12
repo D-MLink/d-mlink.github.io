@@ -18,7 +18,7 @@
 			"filetype": "png",
 			"id": "MJ",
 			"name": "Michael Jack",
-			"src": "/evergreen-assets/backgroundimages/files/mj_popcorn.png",
+			"src": "/evergreen-assets/backgroundimages/files/mj_popcorn_thumb.png",
 			"thumb_src": "/evergreen-assets/backgroundimages/files/mj_popcorn_thumb.png"
 		},
 		{
@@ -55,6 +55,34 @@
 			"name": "Shibuya",
 			"src": "/evergreen-assets/backgroundimages/files/shibuya.jpg",
 			"thumb_src": "/evergreen-assets/backgroundimages/files/shibuya_thumb.jpg"
+		},
+		{
+			"filetype": "gif",
+			"id": "gif_ex",
+			"name": "gif_ex",
+			"src": "/evergreen-assets/backgroundimages/files/gif_ex.gif",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
+		},
+		{
+			"filetype": "mp4",
+			"id": "mp4_ex",
+			"name": "mp4_ex",
+			"src": "/evergreen-assets/backgroundimages/files/mp4_ex.mp4",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
+		},
+		{
+			"filetype": "webm",
+			"id": "webm_ex",
+			"name": "webm_ex",
+			"src": "/evergreen-assets/backgroundimages/files/webm_ex.webm",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
+		},
+		{
+			"filetype": "webp",
+			"id": "webp_ex",
+			"name": "webp_ex",
+			"src": "/evergreen-assets/backgroundimages/files/webp_ex.webp",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
 		},
 		{
 			"filetype": "png",

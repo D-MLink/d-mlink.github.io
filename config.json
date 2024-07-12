@@ -78,11 +78,11 @@
 			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
 		},
 		{
-			"filetype": "webp",
-			"id": "webp_ex",
-			"name": "webp_ex",
-			"src": "/evergreen-assets/backgroundimages/files/webp_ex.webp",
-			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
+			"filetype": "png",
+			"id": "farewell",
+			"name": "farewell",
+			"src": "/evergreen-assets/backgroundimages/files/farewell.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/farewell.png"
 		},
 		{
 			"filetype": "png",

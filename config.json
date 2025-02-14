@@ -1,6 +1,41 @@
 {
 	"videoBackgroundImages": [
 		{
+			"filetype": "png",
+			"id": "bad_boyfriend",
+			"name": "Bad Boyfriend",
+			"src": "/evergreen-assets/backgroundimages/files/bad_boyfriend.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/bad_boyfriend.png"
+		},
+		{
+			"filetype": "png",
+			"id": "breaking_bad_rv",
+			"name": "Breaking Bad RV",
+			"src": "/evergreen-assets/backgroundimages/files/breaking_bad_rv.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/breaking_bad_rv.png"
+		},
+		{
+			"filetype": "png",
+			"id": "couch_simpsons",
+			"name": "Couch Simpsons",
+			"src": "/evergreen-assets/backgroundimages/files/bad_boyfrcouch_simpsonscouch_simpsonsiend.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/couch_simpsons.png"
+		},
+		{
+			"filetype": "png",
+			"id": "pulp_fiction",
+			"name": "Pulp Fiction",
+			"src": "/evergreen-assets/backgroundimages/files/pulp_fiction.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/pulp_fiction.png"
+		},
+		{
+			"filetype": "png",
+			"id": "the_office",
+			"name": "The Office",
+			"src": "/evergreen-assets/backgroundimages/files/the_office.png",
+			"thumb_src": "/evergreen-assets/backgroundimages/files/the_office.png"
+		},
+		{
 			"filetype": "jpg",
 			"id": "santos",
 			"name": "Santos",
@@ -43,38 +78,10 @@
 			"thumb_src": "/evergreen-assets/backgroundimages/files/Serra-da-Estrela-tour_thumb.jpg"
 		},
 		{
-			"filetype": "jpg",
-			"id": "Fuji",
-			"name": "Fuji",
-			"src": "/evergreen-assets/backgroundimages/files/fuji.jpg",
-			"thumb_src": "/evergreen-assets/backgroundimages/files/fuji_thumb.jpg"
-		},
-		{
-			"filetype": "jpg",
-			"id": "Shibuya",
-			"name": "Shibuya",
-			"src": "/evergreen-assets/backgroundimages/files/shibuya.jpg",
-			"thumb_src": "/evergreen-assets/backgroundimages/files/shibuya_thumb.jpg"
-		},
-		{
-			"filetype": "gif",
-			"id": "gif_ex",
-			"name": "gif_ex",
-			"src": "/evergreen-assets/backgroundimages/files/gif_ex.gif",
-			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
-		},
-		{
 			"filetype": "mp4",
 			"id": "mp4_ex",
 			"name": "mp4_ex",
 			"src": "/evergreen-assets/backgroundimages/files/mp4_ex.mp4",
-			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
-		},
-		{
-			"filetype": "webm",
-			"id": "webm_ex",
-			"name": "webm_ex",
-			"src": "/evergreen-assets/backgroundimages/files/webm_ex.webm",
 			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
 		},
 		{

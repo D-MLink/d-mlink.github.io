@@ -78,13 +78,6 @@
 			"thumb_src": "/evergreen-assets/backgroundimages/files/Serra-da-Estrela-tour_thumb.jpg"
 		},
 		{
-			"filetype": "mp4",
-			"id": "mp4_ex",
-			"name": "mp4_ex",
-			"src": "/evergreen-assets/backgroundimages/files/mp4_ex.mp4",
-			"thumb_src": "/evergreen-assets/backgroundimages/files/santos_thumb.jpg"
-		},
-		{
 			"filetype": "png",
 			"id": "farewell",
 			"name": "farewell",
